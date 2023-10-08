@@ -1,0 +1,90 @@
+//Breve Resumo sobre a origem da Internet!!
+
+	Tudo começa com a necessidade da comunicação. Samuel Morse pioneiro da comunicação a 
+	longa distância, criou o código Morse representado por linhas e pontos, Claude 
+	Shannon pai da teoria da informação, Harry Nyquist, criou teoria para transmissão de 
+	dados e Ralph Hartley que criou teoria de osciladores. Linus Turing pai da 
+	computação, primeiro computador era enorme e denominado Eniac, 1959 surge um modelo 
+	menor IMB 1401, 1969 surge a DARPA durante a guerra fria, para proteger dados de 
+	bases militares, então surge a Arpanet primeiro avanço da internet a longa distância, 
+	surge o protocolo NCP para possibilitar a comunicação dos 4 computadores, o qual já 
+	tinha o FTP(para transmissão de arquivos) e o DNS(para identificação de máquinas na 
+	rede), outro fator que Ray Tomlinson, criou um sistema para o envio de mensagem 
+	eletrônica, surge então o email, Robert Kahn responsável por solucionar os problemas 
+	do protocolo NCP que estava em conflito devido a quantidade de máquinas na mesma 
+	rede, cria então o TCP(quebrando os dados em pacotes. ou seja, dividindo as tarefas), 
+	criou o termo INTERNETTING que era utilizado para representar redes que comunicavam 
+	entre si, porém o protocolo TCP não conseguia tratar a identificação das máquinas, 
+	então Vint Cerf criou o IP, então com a união do TCP/IP foi dado o protocolo mais 
+	famoso do mundo, que permitiu um aumento gigantesco o número de máquinas que faziam 
+	parte da rede, foi então depois de espalhar esse método de comunicação que depois dos 
+	anos de 1977 surge o termo Internet, para comunicar um continente ao outro utilizasse 
+	cabos submarinos. 1980 Timothy John Berners-Lee físico e trabalhava no CERN pesquisa 
+	nuclear criou o LHC, participou de um projeto chamado ENQUIRE que visava a criação de 
+	hipertextos, texto, imagem, som, vídeos, com o protocolo TCP/IP percebeu que o 
+	conteúdo multimídia poderia ser transmitido pela rede, surge então o protocolo 
+	HTTP(Protocolo de Transferência de Hipertextos), então surge também uma linguagem de 
+	criação de conteúdo hipertexto denomiada de HTML, também criou a World Wide Web 
+	famoso WWW dos sites, o qual engloba todos servidores multimidias que utilizam o 
+	protocolo HTTP.
+	
+//Breve Resumo sobre a evolução da linguagem HTML!!
+
+	Antes existia o Gopher, interfacecom background preto e letra branca, navegação pelas 
+	setas do teclado, em 1991 surge o primeiro web site, e era necessário os navegadores 
+	para vizualizar essas páginas MidasWWW, ViolaWWW e o Selo, então em 1992 surge o 
+	MOSAIC, 1994 surge a Netscape desenvolvido por uma empresa, 1995 surge o IBM 
+	WebExplorer, UDI WWW suportava a versão do HTML3 e primeira versão do Internet 
+	Explorer navegador da Microsoft, 1996 maioria dos usuários usavam Netscape, porém com 
+	o lançamento de uma versão do windows lançada com o navegador Internet Explorer o 
+	Netscape perdeu mercado, processando a Microsoft e ganhando a causa, entretanto não 
+	foi suficiente para se reerguer no mercado, então em 1999 a Netscape foi vendida para 
+	America Online, fundaram o Mozilla Firefox, por quase 10 anos reinou, porém em 2008 a 
+	google também lança seu navegador o google chrome que é a mais utilizada nos dias de 
+	hoje. Primeira versão do HTML ficou por 5 anos, então em 1995 surge a 2ª versão do 
+	HTML ganhou mais adeptos e auxilios das empresas, porém o maior problema nessa versão 
+	é que cada empresa queria criar suas tags para usarem em seus navegadores e então no 
+	mesmo ano surge a versão 3 do html que agora teria controle do W3C World Wide Web 
+	Consortium determinando o padrão para criação das novas tecnologias, 1997 surge a 
+	versão 4 do HTML, em 2004 a W3C queria acabar com a versão 4 e lançar uma nova versão 
+	baseado na tecnologia XML, que é a Extensible HTML, ou, XHTML, mas as empresas 
+	responsáveis na criação e manutenção dos navegadores ficaram preocupadas, foi então 
+	que a Mozilla, Opera e a Apple criaram o Whatwg queriam evoluir a linguagem HTML, 
+	porém sem custódia da W3C, em 2007 o XHTML estava na versão 2.0, porém o grupo Whatwg 
+	apresentou uma proposta para o W3C foi então que a W3C gostou do projeto e voltou 
+	atrás na numeração, surgindo assim a versão 5 do HTML, que foi publicada o primeiro 
+	Workdraft em 2008, principal diferença dessa versão é a total separação entre 
+	semântica, estilo e interatividade, ou seja, depende de CSS, HTML, Javascript.
+
+//Breve Resumo sobre a infraestrutura da internet
+
+	Computadores são equipamentos digitais, logo funcionam baseados em um sistema binário 
+	de numeração, todos os dados representados no computador são em formatos de "0" e 
+	"1", o computador é um equipamento eletrônico, logo é mais fácil realizar operações 
+	com sistema binário, já que é uma máquina eletrônica que funciona atráves de sinais 
+	eletrônicos, ondas feitas pelo sistema binário são chamada de sinal digital, portanto 
+	para loga distância precisamos de um meio para comunicar, exemplo o telefone é uma 
+	das mais utilizadas até hoje seja por linha discada, ou por banda larga mais presente 
+	atualmente que tem o celular como base, independente do método de comunicação 
+	utilizado a maioria utiliza onda senoidais = sinal analógico, portanto fica difícil a 
+	transmissão das ondas digitais, e a solução é utilizar o MODEN, aparelho responsável 
+	pelo modulação das ondas digitais para ondas senoidais e ao chegar no destino 
+	responsável pela demodulação inversa para transmitir para outra máquina, para enviar 
+	um arquivo de uma máquina para outra através dos protocolos de internet esses 
+	arquivos seram divididos em pequenos pacotes ou Datagramas, os quais seram 
+	transmitidos um por vez e talvez até mesmo por outra rota, e ao chegar no destino são 
+	os mesmos protocolos responsáveis para reorganizar os pacotes e concatenar o arquivo 
+	original, cada computador quando conectado a internet tem o seu endereço IP, ou seja, 
+	quando o seu moden se comunica com os modens do seu provedor de internet, o qual 
+	inclui seu host na internet o seu computador tem um IP específico formado por 4 
+	octetos chamado de IPV4, porém atualmente como a demanda de endereços de internet 
+	ultrapassaram essa versão, já foi criada e está sendo utilizada o meio para armazenar 
+	endereço que é o IPV6, então para acessar um servidor na internet eles também possuem 
+	seus endereços IPs, porém para acessar um site primeiro nos servidores especiais 
+	chamados DNS vai captar a origem e o domínio do site, encontrando assim o endereço do 
+	servidor, portanto o site enviara os pacotes e o seu navegador interpretará os 
+	códigos html mostrando o conteúdo na sua tela.
+
+//Breve Resumo sobre a linguagem Javascript
+
+	Veio de outra linguagem e foi comprada pela OpenWave em 1992, a qual estava desenvolvendo uma linguagem Cmm, ou seja, C--, e o objetivo era ser mais simples para influenciar no aprendizado, depois alterou o nome para ScriptEase, em 1994 despertou interesse na linguagem, adquiriu o projeto e nas mãos de Brendan Eich e colocou o nome de mocha e depois de LiveScript, versão 2.0 em 1995, negociação com a Sun microsystems que acabou de fundar a linguagem Java, então fundiram os nomes ficando JavaScript suas semelhanças se deve a linguagem C, chamadas de C like. Depois a Microsoft em seu navegador explorer queria lançar a linguagem VBScript em 1996, porém o JavaScript dominava, então alteraram o nome para JScript. em 1997 a Netscape entrou em contato com ecma para padronizar o JavaScript então surge a ECMAScript, portanto atualmente várias tecnologias foram criadas a partir dessa linguagem 

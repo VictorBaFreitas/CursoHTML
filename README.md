@@ -1,4 +1,4 @@
-# CursoHTML_CursoEmVideo
+# CursoHTML
 
 ## Curso de 40h desenvolvido na plataforma Curso em Vídeo
 
